@@ -1,82 +1,146 @@
-# Projects Overview
+# My Projects
 
-## Fusion: Meal Planning and Recipe Management App
-Fusion is a meal planning and recipe management application designed to simplify grocery and cooking tasks. The app offers features such as meal planning, grocery list management, recipe browsing, and nutritional data tracking. With Firebase integration, users can securely store their data and manage accounts.
+Welcome to my project portfolio! Below are some of my key projects, each accompanied by a detailed README in their respective repositories that goes in-depth about the features, technologies, development processes, and architectural decisions made throughout the development cycle.
 
-**Features:**
-1. **Browse and Search Recipes**: Search recipes by ingredients, meal type, and calories.
-2. **Recipe Details**: View detailed recipe information, including ingredients and steps.
-3. **Meal Planning**: Plan meals for specific days, with saved data in Firebase.
-4. **Shopping List Management**: Organize shopping lists by category, with real-time syncing.
-5. **Nutritional Information**: Detailed nutritional data displayed for each recipe.
-6. **User Authentication**: Sign up or log in using Firebase Authentication.
-7. **Profile Management and Settings**: Manage user profiles and account settings.
+## [Fusion: Meal Planning and Recipe Management](https://github.com/UndeadRonin99/Fusion.git)  
+[Watch Demo](https://youtu.be/j97t5qKFvp4)
 
-**Technologies Used**: Android Studio, Firebase, Retrofit, ViewPager2, Glide.  
-**Project Type**: Individual and Group Project.
+**Fusion** is a comprehensive meal planning and recipe management application designed to simplify the grocery shopping and cooking process. The app features:
+- **Meal Planning**: Users can easily organize meals for the week by selecting from a variety of recipes.
+- **Grocery List Management**: Automatically generate grocery lists based on selected meal plans, making shopping more efficient.
+- **Recipe Browsing**: Users can search for and browse recipes by ingredients, dietary preferences, and categories.
+- **Nutritional Data Tracking**: View detailed nutritional information for each recipe, helping users make healthier choices.
 
-**Repository**: [Fusion GitHub](https://github.com/UndeadRonin99/Fusion.git)  
-**Demo**: [Fusion Demo Video](https://youtu.be/j97t5qKFvp4)
+The app integrates seamlessly with **Firebase** for user authentication and secure data storage, ensuring a smooth user experience. The project demonstrates my ability to create a full-featured mobile application from the ground up.
 
----
+**Skills Learned**: 
+- **Android Development**: Gained experience in developing user-friendly mobile applications using Kotlin.
+- **Firebase Integration**: Implemented user authentication and real-time database management.
+- **UI/UX Design Principles**: Designed intuitive interfaces that enhance user experience and engagement.
+- **RESTful API Consumption**: Learned to fetch data from external APIs to enrich the application with dynamic content.
 
-## ClockIT: Advanced Time Management and Tracking System
-ClockIT is an advanced time management and tracking system designed to help users efficiently manage their tasks and time.
+**Technologies Used**: 
+- Kotlin, Firebase, Android SDK
 
-**Features:**
-1. **Leaderboard**: Displays user rankings based on points accumulated from logged activities.
-2. **Color Coding**: Assigns distinct colors to categories for better visual organization.
-3. **Time Tracking**: Logs time automatically or allows manual entry.
-4. **Task Management**: Create, delete, and manage tasks with specific details.
-5. **User Management**: Generates detailed reports on user activities and productivity analysis.
+**Project Type**: 
+- Mobile Application
 
-**Technologies Used**: Node.js, Express.js, Firebase.  
-**Project Type**: Group Project.
-
-**Repository**: [ClockIT GitHub](https://github.com/UndeadRonin99/ClockIT.git)
+**Project Style**: 
+- Individual and Group work
 
 ---
 
-## Alleysway: ASP.NET Core MVC Web Application
-Alleysway is a web application built with ASP.NET Core MVC that integrates Firebase for authentication and real-time database management. It supports multiple user roles, including Admins and Clients.
+## [ClockIT: Advanced Time Management System](https://github.com/UndeadRonin99/ClockIT.git)
 
-**Features:**
-1. **Firebase Authentication**: Google OAuth login and token verification.
-2. **Role-Based Access**: Different dashboards for Admins and Clients.
-3. **Session Management**: Admins can manage client sessions and payment statuses.
-4. **Real-Time Communication**: Chat features powered by Firebase.
-5. **Google Calendar Integration**: Session bookings synced with Google Calendar.
+**ClockIT** is an advanced time management and tracking system that helps users efficiently manage their tasks and time. The application provides the following features:
+- **Task Scheduling**: Users can create, update, and delete tasks while setting deadlines and priorities.
+- **Time Tracking**: Monitor the time spent on various tasks to improve productivity.
 
-**Technologies Used**: ASP.NET Core MVC, Firebase, Google API.  
-**Project Type**: Individual and Group Project.
+This project was developed collaboratively in a group, allowing me to refine my teamwork and project management skills. 
 
-**Repository**: [Alleysway GitHub](https://github.com/UndeadRonin99/Alleysway-website.git)
+**Skills Learned**: 
+- **Collaborative Development**: Gained experience working in a team environment, utilizing version control effectively with Git.
+- **Time Management Algorithms**: Explored and implemented algorithms for efficient task scheduling and prioritization.
+- **User Interface Development**: Enhanced my ability to create engaging and functional user interfaces.
 
----
+**Technologies Used**: 
+- Java, Spring Boot, MySQL
 
-## Fusion API: Backend Service for Fusion App
-The Fusion API is the backend service for the Fusion App, providing functionalities for meal planning, recipe browsing, grocery list management, and user authentication.
+**Project Type**: 
+- Web Application
 
-**Features:**
-- **API Integration**: Integrates with Spoonacular and Nutritionix APIs for fetching recipes and nutritional information.
-- **User Authentication**: Manages user accounts and authentication through Firebase.
-- **Real-Time Database**: Stores user data and application state in Firebase.
-
-**Technologies Used**: Node.js, Express.js, Firebase, Render.com.  
-**Project Type**: Individual
-
-**Repository**: [Fusion API GitHub](https://github.com/UndeadRonin99/Fusion_API.git)  
-**Demo**: [Fusion API Demo Video](https://youtu.be/j97t5qKFvp4)
+**Project Style**: 
+- Individual and Group work
 
 ---
 
-# Skills from the projects above
-- **Programming Languages**: Java, C#, JavaScript, Node.js
-- **Frameworks**: Android SDK, ASP.NET Core, Express.js
-- **Databases**: Firebase, MongoDB
-- **Tools and Technologies**: Retrofit, Glide, Google APIs, Git, GitHub Actions
-- **Development Practices**: CI/CD, API Integration, Real-time Data Management, User Authentication, Agile Development
+## [Alleysway: ASP.NET Core Web Application](https://github.com/UndeadRonin99/Alleysway-website.git)
+
+**Alleysway** is a robust web application built using **ASP.NET Core MVC**. It integrates with **Firebase** to provide essential features such as:
+- **Multi-role Functionality**: The application supports distinct functionalities for Admins and Clients, ensuring a tailored experience for different users.
+- **Google OAuth Authentication**: Implemented secure login using Google accounts for enhanced user security.
+- **Real-Time Session Management**: Users can book sessions in real time, and administrators can manage availability.
+
+This project showcases my ability to build secure and scalable web applications while effectively managing user roles.
+
+**Skills Learned**:
+- **Web Development with ASP.NET Core**: Acquired in-depth knowledge of building web applications using C# and ASP.NET Core MVC.
+- **Role-Based Access Control (RBAC)**: Implemented role management to ensure appropriate access to resources based on user roles.
+- **Integration with External Services**: Learned how to integrate third-party authentication services and databases into web applications.
+
+**Technologies Used**: 
+- C#, ASP.NET Core, Firebase, SQL Server
+
+**Project Type**: 
+- Web Application
+
+**Project Style**: 
+- Individual and Group work
 
 ---
+
+## [Customer Portal: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git)  
+[Watch Demo](https://youtu.be/1MCwDIKGdKE)
+
+The **Customer Portal** is a web application focused on establishing a CI/CD pipeline using **GitHub Actions** for a **Node.js** backend. Key features of this project include:
+- **JWT Authentication**: Secured user login and registration processes using JSON Web Tokens.
+- **MongoDB Integration**: Utilized MongoDB for efficient data storage and retrieval.
+- **Security Features**: Implemented rate limiting and CSRF protection to enhance application security.
+
+This project emphasizes the importance of security and best practices in modern web development.
+
+**Skills Learned**:
+- **Node.js & Express.js Development**: Gained proficiency in building RESTful APIs and server-side applications.
+- **Continuous Integration and Deployment (CI/CD)**: Learned to automate deployment processes using GitHub Actions.
+- **Security Implementations**: Developed a strong understanding of web security practices, including token-based authentication and data protection.
+
+**Technologies Used**: 
+- JavaScript, Node.js, Express.js, MongoDB
+
+**Project Type**: 
+- Web Application
+
+**Project Style**: 
+- Individual 
+
+---
+
+## [Fusion API: Backend Service for Fusion App](https://github.com/UndeadRonin99/Fusion_API.git)  
+[Watch Demo](https://youtu.be/j97t5qKFvp4)
+
+The **Fusion API** serves as the backend service for the Fusion app, offering critical functionalities such as:
+- **Meal Planning and Recipe Search**: Provides endpoints for managing meals and fetching recipes using third-party APIs.
+- **Grocery List Management**: Supports the generation of grocery lists based on user-selected recipes.
+- **User Authentication**: Utilizes Firebase for secure user management and data storage.
+
+The API is hosted on **Render.com**, ensuring high availability and performance.
+
+**Skills Learned**:
+- **API Development**: Enhanced my ability to design and develop RESTful APIs, including CRUD operations.
+- **Third-Party API Integration**: Learned how to work with external services like Spoonacular and Nutritionix for fetching data.
+- **Cloud Hosting**: Gained experience in deploying APIs to cloud platforms for public accessibility.
+
+**Technologies Used**: 
+- Node.js, Express.js, Firebase
+
+**Project Type**: 
+- Backend Service
+
+**Project Style**: 
+- Individual and Group work
+
+---
+
+### Skills Gained from These Projects
+
+From these projects, I gained significant experience in various areas:
+- **Full-Stack Development**: Proficient in mobile and web development using Android, ASP.NET Core, Node.js, and RESTful API design.
+- **Backend & Database Management**: Developed skills in API development, database management, and implementing authentication systems.
+- **Security Practices**: Gained knowledge in implementing security features such as JWT, OAuth, rate limiting, and CSRF protection.
+- **CI/CD & Collaboration**: Developed experience in setting up CI/CD pipelines with GitHub Actions, enhancing deployment efficiency, and collaborating effectively in team environments.
+- **Project Management**: Improved my ability to manage projects, prioritize tasks, and meet deadlines through effective planning and organization.
+
+Each repository contains a comprehensive **README** file that dives deeper into the features, technologies, and development methodologies used. However, I have learned even more skills, which are further detailed in my CV.
+
 
 # Please note these are not all my skills but only from the few projects listed here

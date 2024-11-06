@@ -83,12 +83,11 @@ This project showcases my ability to build secure and scalable web applications 
 
 ---
 
-## [Payment Portal: React & Express.js Application](https://github.com/UndeadRonin99/Payment-Portal.git) 
-[Customer Portal Backend: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git) 
+## frontend[Payment Portal: React & Express.js Application](https://github.com/UndeadRonin99/Payment-Portal.git) 
+## Backend[Customer Portal Backend: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git) 
 
 [Watch Demo for backend](https://youtu.be/1MCwDIKGdKE)
-[Watch Demo for frontend]([https://youtu.be/1MCwDIKGdKE](https://youtu.be/clSogC3Acyc)
-
+[Watch Demo for frontend](https://youtu.be/clSogC3Acyc)
 
 The **Payment Portal** is a secure web application designed for managing user payments and verifications, built with a **React** frontend and an **Express.js** backend. Key features include:
 

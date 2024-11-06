@@ -149,12 +149,15 @@ The API is hosted on **Render.com**, ensuring high availability and performance.
 
 ### Skills Gained from These Projects
 
-From these projects, I gained significant experience in various areas:
-- **Full-Stack Development**: Proficient in mobile and web development using Android, ASP.NET Core, Node.js, and RESTful API design.
-- **Backend & Database Management**: Developed skills in API development, database management, and implementing authentication systems.
-- **Security Practices**: Gained knowledge in implementing security features such as JWT, OAuth, rate limiting, and CSRF protection.
-- **CI/CD & Collaboration**: Developed experience in setting up CI/CD pipelines with GitHub Actions, enhancing deployment efficiency, and collaborating effectively in team environments.
-- **Project Management**: Improved my ability to manage projects, prioritize tasks, and meet deadlines through effective planning and organization.
+These projects provided hands-on experience and significant growth across multiple domains:
+
+- **Full-Stack Development**: Developed robust mobile and web applications using Android, ASP.NET Core, Node.js, and RESTful API design, showcasing proficiency in building responsive UIs and scalable server-side logic.
+- **Backend & Database Management**: Gained expertise in API development, efficient data handling, and secure database management using MongoDB, Firebase, and SQL databases, with a strong focus on data integrity and performance.
+- **Security Practices**: Advanced understanding of security practices, including JWT, OAuth, rate limiting, and CSRF protection, alongside password hashing and input validation to ensure data protection and application safety.
+- **CI/CD & DevOps**: Implemented CI/CD pipelines with GitHub Actions and CircleCI, automating testing and deployment processes to reduce delivery times and ensure consistency. Familiar with containerization concepts and cloud deployments.
+- **API Integration & Data Fetching**: Experience in integrating third-party APIs using tools like Retrofit and Axios, managing data parsing and synchronization for dynamic content updates.
+- **Collaborative Development**: Successfully worked in team environments using Git, resolving merge conflicts and ensuring code quality through peer reviews and agile practices.
+- **Project Management**: Strengthened project planning and management skills, focusing on task prioritization, resource allocation, and deadline adherence, while continuously adapting to project requirements and goals.
 
 Each repository contains a comprehensive **README** file that dives deeper into the features, technologies, and development methodologies used. However, I have learned even more skills, which are further detailed in my CV.
 

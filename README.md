@@ -83,34 +83,40 @@ This project showcases my ability to build secure and scalable web applications 
 
 ---
 
-## frontend[Payment Portal: React & Express.js Application](https://github.com/UndeadRonin99/Payment-Portal.git) 
-## Backend[Customer Portal Backend: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git) 
+# Payment Portal: Full-Stack Application
 
-[Watch Demo for backend](https://youtu.be/1MCwDIKGdKE)
-[Watch Demo for frontend](https://youtu.be/clSogC3Acyc)
+- [Frontend Repository: Payment Portal (React & Express.js Application)](https://github.com/UndeadRonin99/Payment-Portal.git)  
+- [Backend Repository: Customer Portal Backend (Node.js & Express.js Application)](https://github.com/TylerFriedman/customer-portal.git)
 
-The **Payment Portal** is a secure web application designed for managing user payments and verifications, built with a **React** frontend and an **Express.js** backend. Key features include:
+- [Watch Demo for Backend](https://youtu.be/1MCwDIKGdKE)  
+- [Watch Demo for Frontend](https://youtu.be/clSogC3Acyc)
+
+## Overview
+
+The **Payment Portal** is a secure web application designed to manage user payments and verifications, featuring a **React** frontend and **Express.js** backend. Key capabilities include:
 
 - **User Registration**: Register users with role-based access (`customer` or `employee`).
 - **User Login**: Secure login with hashed passwords and JWT authentication.
-- **Payments**: Enables users to make payments through the portal.
+- **Payments**: Enables users to make payments within the portal.
 - **Payment Verification**: Allows employees to verify pending payments.
 
-**Skills Demonstrated**:
-- **Full-Stack Development**: Created a robust frontend with React and RESTful API backend with Node.js and Express.
-- **CI/CD with CircleCI**: Integrated continuous deployment pipelines for streamlined updates.
-- **Security Implementations**: Applied password hashing, JWT for authentication, and input validation.
+## Skills Demonstrated
 
-**Technologies Used**:  
+- **Full-Stack Development**: Created a responsive frontend with React and a RESTful backend with Node.js and Express.
+- **CI/CD with CircleCI**: Established a continuous integration pipeline for streamlined deployment.
+- **Security Implementations**: Utilized password hashing, JWT for authentication, and input validation for enhanced security.
+
+## Technologies Used
+
 - **Frontend**: React, Axios, React Router
 - **Backend**: Node.js, Express.js, MongoDB, JWT, bcrypt.js, Joi
 - **DevOps**: CircleCI for continuous integration
 
-**Project Type**: 
-- Web Application
+## Project Details
 
-**Project Style**: 
-- Individual 
+- **Project Type**: Web Application
+- **Project Style**: Individual
+
 
 
 ---

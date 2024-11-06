@@ -3,30 +3,34 @@
 Welcome to my project portfolio! Below are some of my key projects, each accompanied by a detailed README in their respective repositories that goes in-depth about the features, technologies, development processes, and architectural decisions made throughout the development cycle.
 
 ## [Fusion: Meal Planning and Recipe Management](https://github.com/UndeadRonin99/Fusion.git)  
-[Watch Demo](https://youtu.be/j97t5qKFvp4)
+[Watch Demo](https://youtu.be/VplMxy9QUXQ)
 
-**Fusion** is a comprehensive meal planning and recipe management application designed to simplify the grocery shopping and cooking process. The app features:
-- **Meal Planning**: Users can easily organize meals for the week by selecting from a variety of recipes.
-- **Grocery List Management**: Automatically generate grocery lists based on selected meal plans, making shopping more efficient.
-- **Recipe Browsing**: Users can search for and browse recipes by ingredients, dietary preferences, and categories.
-- **Nutritional Data Tracking**: View detailed nutritional information for each recipe, helping users make healthier choices.
+**Fusion** is a comprehensive meal planning and recipe management app that streamlines grocery shopping and cooking. The app offers:
 
-The app integrates seamlessly with **Firebase** for user authentication and secure data storage, ensuring a smooth user experience. The project demonstrates my ability to create a full-featured mobile application from the ground up.
+- **User Authentication**: Secure login using Firebase with optional biometric login.
+- **Meal Planning**: Organize meals by day and time with reminders for meal prep.
+- **Grocery List Management**: Auto-generate grocery lists by recipe and organize items by category.
+- **Recipe Browsing**: Search and filter recipes by ingredients, dietary preferences, and meal type.
+- **Nutritional Data Tracking**: View nutritional information for each recipe.
+- **Multi-language Support**: Supports English and Afrikaans, with easy switching in settings.
 
-**Skills Learned**: 
-- **Android Development**: Gained experience in developing user-friendly mobile applications using Kotlin.
-- **Firebase Integration**: Implemented user authentication and real-time database management.
-- **UI/UX Design Principles**: Designed intuitive interfaces that enhance user experience and engagement.
-- **RESTful API Consumption**: Learned to fetch data from external APIs to enrich the application with dynamic content.
+Fusion integrates **Firebase** for authentication and data storage, ensuring secure and synchronized access. This project demonstrates the ability to create a robust mobile application from scratch.
 
-**Technologies Used**: 
-- Kotlin, Firebase, Android SDK
+**Skills Demonstrated**:
+- **Android Development**: Developed intuitive mobile interfaces using Kotlin.
+- **Firebase Integration**: Implemented secure user authentication and real-time data sync.
+- **API Integration**: Used Retrofit for dynamic recipe retrieval.
+- **UI/UX Design**: Designed an engaging, user-friendly interface with multi-language support.
 
-**Project Type**: 
+**Technologies Used**:  
+- Kotlin, Firebase, Retrofit, Android SDK
+
+**Project Type**:  
 - Mobile Application
 
-**Project Style**: 
+**Project Style**:  
 - Individual and Group work
+
 
 ---
 
@@ -79,29 +83,36 @@ This project showcases my ability to build secure and scalable web applications 
 
 ---
 
-## [Customer Portal: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git)  
-[Watch Demo](https://youtu.be/1MCwDIKGdKE)
+## [Payment Portal: React & Express.js Application](https://github.com/UndeadRonin99/Payment-Portal.git) 
+[Customer Portal Backend: Node.js & Express.js Application](https://github.com/TylerFriedman/customer-portal.git) 
 
-The **Customer Portal** is a web application focused on establishing a CI/CD pipeline using **GitHub Actions** for a **Node.js** backend. Key features of this project include:
-- **JWT Authentication**: Secured user login and registration processes using JSON Web Tokens.
-- **MongoDB Integration**: Utilized MongoDB for efficient data storage and retrieval.
-- **Security Features**: Implemented rate limiting and CSRF protection to enhance application security.
+[Watch Demo for backend](https://youtu.be/1MCwDIKGdKE)
+[Watch Demo for frontend]([https://youtu.be/1MCwDIKGdKE](https://youtu.be/clSogC3Acyc)
 
-This project emphasizes the importance of security and best practices in modern web development.
 
-**Skills Learned**:
-- **Node.js & Express.js Development**: Gained proficiency in building RESTful APIs and server-side applications.
-- **Continuous Integration and Deployment (CI/CD)**: Learned to automate deployment processes using GitHub Actions.
-- **Security Implementations**: Developed a strong understanding of web security practices, including token-based authentication and data protection.
+The **Payment Portal** is a secure web application designed for managing user payments and verifications, built with a **React** frontend and an **Express.js** backend. Key features include:
 
-**Technologies Used**: 
-- JavaScript, Node.js, Express.js, MongoDB
+- **User Registration**: Register users with role-based access (`customer` or `employee`).
+- **User Login**: Secure login with hashed passwords and JWT authentication.
+- **Payments**: Enables users to make payments through the portal.
+- **Payment Verification**: Allows employees to verify pending payments.
+
+**Skills Demonstrated**:
+- **Full-Stack Development**: Created a robust frontend with React and RESTful API backend with Node.js and Express.
+- **CI/CD with CircleCI**: Integrated continuous deployment pipelines for streamlined updates.
+- **Security Implementations**: Applied password hashing, JWT for authentication, and input validation.
+
+**Technologies Used**:  
+- **Frontend**: React, Axios, React Router
+- **Backend**: Node.js, Express.js, MongoDB, JWT, bcrypt.js, Joi
+- **DevOps**: CircleCI for continuous integration
 
 **Project Type**: 
 - Web Application
 
 **Project Style**: 
 - Individual 
+
 
 ---
 

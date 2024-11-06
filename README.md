@@ -89,7 +89,7 @@ This project showcases my ability to build secure and scalable web applications 
 - [Backend Repository: Customer Portal Backend (Node.js & Express.js Application)](https://github.com/TylerFriedman/customer-portal.git)
 
 - [Watch Demo for Backend](https://youtu.be/1MCwDIKGdKE)  
-- [Watch Demo for Frontend](https://youtu.be/clSogC3Acyc)
+- [Watch Demo for Frontend and Backend](https://youtu.be/clSogC3Acyc)
 
 ## Overview
 
@@ -115,7 +115,7 @@ The **Payment Portal** is a secure web application designed to manage user payme
 ## Project Details
 
 - **Project Type**: Web Application
-- **Project Style**: Individual
+- **Project Style**: Individual Backend and Group Work for Frontend
 
 
 
